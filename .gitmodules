@@ -1,0 +1,4 @@
+[submodule "WiringPi"]
+	path = WiringPi
+	url = https://github.com/synthead/wiringPi.git
+	branch = hardkernel_odroid_c
